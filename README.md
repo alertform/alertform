@@ -26,10 +26,6 @@ Game Dev     Unreal Engine · UnLua · PuerTS
 Tools        Claude Code · Obsidian · Git
 ```
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alertform&show_icons=true&theme=neutral&hide_border=true)
-
 ---
 
 📫 Find me on [GitHub](https://github.com/alertform)
