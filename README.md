@@ -14,7 +14,7 @@ Software developer building tools at the intersection of **AI**, **desktop apps*
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [ue5-multiplayer-action](https://github.com/alertform/ue5-multiplayer-action) | Third-person multiplayer action game with GAS & network replication | C++ · UE5 |
-| [LuoXiaoHeiPet](https://github.com/alertform/LuoXiaoHeiPet) | Cross-platform desktop pet with AI chat, tool calling & TTS | Rust · Tauri 2 · React |
+| [LuoXiaoHeiPet](https://github.com/alertform/LuoXiaoHeiPet) | Cross-platform AI desktop pet — chat, tool calling, multi-provider routing, TTS, animations | Rust · Tauri 2 · React |
 
 ## Tech Stack
 
