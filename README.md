@@ -1,7 +1,7 @@
 # Hi, I'm Ziton 👋
 
-I build **AI-native tooling** — agents, retrieval systems, and the plumbing that keeps them
-reliable — on top of a background in **C++ engine and cross-platform SDK work**.
+I build **AI-native tooling** in my spare time — agents, retrieval systems, model
+fine-tuning, and the plumbing that keeps them reliable. Everything here is a personal project.
 
 ## Featured Projects
 
@@ -19,13 +19,9 @@ reliable — on top of a background in **C++ engine and cross-platform SDK work*
 Languages    C++17 · Python · Rust · TypeScript
 AI / Agents  MCP · function calling · LangGraph · RAG (hybrid retrieval, eval) · QLoRA / PEFT
 Engines      Unreal Engine 5 · GAS · editor tooling & plugins
-Desktop      Qt / PySide6 · Tauri · cross-platform packaging
-Systems      multithreading · real-time data pipelines · TCP / WebSocket / JSON-RPC / DDS
+Desktop      Tauri · React · cross-platform packaging
+Systems      multithreading · streaming I/O · TCP / WebSocket / JSON-RPC / SSE
 ```
-
-Day job so far: cross-platform C++ SDKs and plugins for an optical motion-capture company
-(7 platforms — UE, Unity, MotionBuilder, Blender, C4D, Maya, OpenVR), plus ROS 2 work on a
-drone-swarm ground station.
 
 ---
 
