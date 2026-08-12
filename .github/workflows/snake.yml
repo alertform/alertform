@@ -13,14 +13,16 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Colours must be %23-encoded: snk interpolates the raw value straight
+      # into CSS, so a bare "CC785C" yields an invalid declaration.
       - name: Render snake in the Claude palette
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=CC785C&color_dots=1c1c1c,6C5F4E,A87F63,D4A27F,EBDBBC
-            dist/snake-light.svg?color_snake=CC785C&color_dots=F0EEE6,EBDBBC,D4A27F,A87F63,CC785C
+            dist/snake.svg?color_snake=%23CC785C&color_dots=%23262625,%236C5F4E,%23A87F63,%23D4A27F,%23EBDBBC
+            dist/snake-light.svg?color_snake=%23CC785C&color_dots=%23F0EEE6,%23EBDBBC,%23D4A27F,%23A87F63,%23CC785C
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4
