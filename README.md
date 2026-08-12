@@ -14,18 +14,6 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 ---
 
-## ✱&nbsp; Tech
-
-|  |  |
-|---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B17-CC785C?style=flat-square&logo=cplusplus&logoColor=EBDBBC&labelColor=191919) ![Python](https://img.shields.io/badge/Python-CC785C?style=flat-square&logo=python&logoColor=EBDBBC&labelColor=191919) ![Rust](https://img.shields.io/badge/Rust-CC785C?style=flat-square&logo=rust&logoColor=EBDBBC&labelColor=191919) ![TypeScript](https://img.shields.io/badge/TypeScript-CC785C?style=flat-square&logo=typescript&logoColor=EBDBBC&labelColor=191919) ![Lua](https://img.shields.io/badge/Lua-CC785C?style=flat-square&logo=lua&logoColor=EBDBBC&labelColor=191919) |
-| **AI / Agents** | ![LangGraph](https://img.shields.io/badge/LangGraph-CC785C?style=flat-square&logo=langchain&logoColor=EBDBBC&labelColor=191919) ![Transformers](https://img.shields.io/badge/Transformers-CC785C?style=flat-square&logo=huggingface&logoColor=EBDBBC&labelColor=191919) ![PEFT](https://img.shields.io/badge/QLoRA%20%2F%20PEFT-CC785C?style=flat-square&logo=pytorch&logoColor=EBDBBC&labelColor=191919) ![Ollama](https://img.shields.io/badge/Ollama-CC785C?style=flat-square&logo=ollama&logoColor=EBDBBC&labelColor=191919) ![MCP](https://img.shields.io/badge/MCP-EBDBBC?style=flat-square) ![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20hybrid%20retrieval-EBDBBC?style=flat-square) |
-| **Engines / Desktop** | ![Unreal](https://img.shields.io/badge/Unreal%20Engine%205-CC785C?style=flat-square&logo=unrealengine&logoColor=EBDBBC&labelColor=191919) ![Tauri](https://img.shields.io/badge/Tauri-CC785C?style=flat-square&logo=tauri&logoColor=EBDBBC&labelColor=191919) ![React](https://img.shields.io/badge/React-CC785C?style=flat-square&logo=react&logoColor=EBDBBC&labelColor=191919) ![Qt](https://img.shields.io/badge/Qt%20%2F%20PySide6-CC785C?style=flat-square&logo=qt&logoColor=EBDBBC&labelColor=191919) ![GAS](https://img.shields.io/badge/GAS%20%C2%B7%20replication-EBDBBC?style=flat-square) |
-| **Robotics / Sim** | ![ROS2](https://img.shields.io/badge/ROS%202-CC785C?style=flat-square&logo=ros&logoColor=EBDBBC&labelColor=191919) ![MuJoCo](https://img.shields.io/badge/MuJoCo%20%2F%20MJX-EBDBBC?style=flat-square) ![JAX](https://img.shields.io/badge/JAX%20%2B%20Brax%20PPO-EBDBBC?style=flat-square) ![Retargeting](https://img.shields.io/badge/motion%20retargeting-EBDBBC?style=flat-square) |
-| **Systems** | ![Docker](https://img.shields.io/badge/Docker-CC785C?style=flat-square&logo=docker&logoColor=EBDBBC&labelColor=191919) ![Linux](https://img.shields.io/badge/Linux-CC785C?style=flat-square&logo=linux&logoColor=EBDBBC&labelColor=191919) ![CMake](https://img.shields.io/badge/CMake-CC785C?style=flat-square&logo=cmake&logoColor=EBDBBC&labelColor=191919) ![Git](https://img.shields.io/badge/Git-CC785C?style=flat-square&logo=git&logoColor=EBDBBC&labelColor=191919) ![Concurrency](https://img.shields.io/badge/multithreading%20%C2%B7%20SSE%20%C2%B7%20JSON--RPC-EBDBBC?style=flat-square) |
-
----
-
 ## ✱&nbsp; GitHub
 
 <div align="center">
