@@ -31,12 +31,12 @@ data plumbing behind them. Everything here is a personal project, built end to e
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alertform&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alertform&show_icons=true&hide_border=true&include_all_commits=true&theme=graywhite" alt="Ziton's GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alertform&theme=github_dark">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alertform&theme=default" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alertform&layout=compact&hide_border=true&langs_count=6&theme=github_dark&title_color=58a6ff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alertform&layout=compact&hide_border=true&langs_count=6&theme=graywhite" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=github_dark">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=default" alt="Repos per language">
 </picture>
 
 </div>
