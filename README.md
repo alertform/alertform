@@ -7,7 +7,7 @@
 I build agents, retrieval systems and model fine-tunes — plus UE gameplay and the motion-capture
 data plumbing behind them. Everything here is a personal project, built end to end and measured.
 
-<a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Blog-CC785C?style=for-the-badge&logo=vercel&logoColor=F0EEE6&labelColor=191919" alt="Blog"></a>
+<a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Portfolio%20%C2%B7%20Blog-CC785C?style=for-the-badge&logo=vercel&logoColor=F0EEE6&labelColor=191919" alt="Portfolio and blog"></a>
 <a href="https://github.com/alertform?tab=repositories"><img src="https://img.shields.io/badge/Repositories-191919?style=for-the-badge&logo=github&logoColor=F0EEE6&labelColor=191919" alt="Repositories"></a>
 
 </div>
@@ -105,7 +105,5 @@ consumer GPU** (RTX 4060). 4-bit nf4 + gradient checkpointing + paged optimizer 
 
 Currently poking at physics simulation and robot learning, and at what agents can actually
 author inside a game engine.
-
-<a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/ziton.vercel.app-CC785C?style=flat-square&logo=vercel&logoColor=F0EEE6&labelColor=191919" alt="Blog"></a>
 
 </div>
