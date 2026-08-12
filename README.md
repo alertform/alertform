@@ -2,7 +2,7 @@
 
 # Ziton
 
-**✱&nbsp; AI-native tooling · Unreal Engine · Robot learning**
+<a href="https://ziton.vercel.app"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2600&pause=700&color=CC785C&center=true&vCenter=true&width=640&height=44&lines=AI-native+tooling;Unreal+Engine+gameplay;Robot+learning;Motion-capture+data+pipelines" alt="AI-native tooling · Unreal Engine gameplay · Robot learning · Motion-capture data pipelines"></a>
 
 I build agents, retrieval systems and model fine-tunes — plus UE gameplay and the motion-capture
 data plumbing behind them. Everything here is a personal project, built end to end and measured.
@@ -22,6 +22,8 @@ data plumbing behind them. Everything here is a personal project, built end to e
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=gruvbox">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=solarized" alt="Profile details">
 </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alertform&bg_color=00000000&color=CC785C&title_color=CC785C&line=CC785C&point=EBDBBC&area=true&area_color=CC785C&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=gruvbox">
