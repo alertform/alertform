@@ -18,20 +18,11 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=gruvbox">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=solarized" alt="Profile details">
-</picture>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alertform&bg_color=00000000&color=CC785C&title_color=CC785C&line=CC785C&point=EBDBBC&area=true&area_color=CC785C&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=gruvbox">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=solarized" alt="Repos per language">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alertform&theme=gruvbox">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alertform&theme=solarized" alt="Most commit language">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alertform/alertform/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/alertform/alertform/output/snake-light.svg" alt="Contribution snake">
 </picture>
 
 </div>
