@@ -31,12 +31,17 @@ data plumbing behind them. Everything here is a personal project, built end to e
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alertform&theme=github_dark">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alertform&theme=default" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alertform&theme=default" alt="Profile details">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=github_dark">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alertform&theme=default" alt="Repos per language">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alertform&theme=github_dark">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alertform&theme=default" alt="Most commit language">
 </picture>
 
 </div>
