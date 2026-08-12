@@ -2,7 +2,7 @@
 
 # Ziton
 
-**✳&nbsp; AI-native tooling · Unreal Engine · Robot learning**
+**✱&nbsp; AI-native tooling · Unreal Engine · Robot learning**
 
 I build agents, retrieval systems and model fine-tunes — plus UE gameplay and the motion-capture
 data plumbing behind them. Everything here is a personal project, built end to end and measured.
@@ -14,7 +14,7 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 ---
 
-## ✳&nbsp; Tech
+## ✱&nbsp; Tech
 
 |  |  |
 |---|---|
@@ -26,7 +26,7 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 ---
 
-## ✳&nbsp; GitHub
+## ✱&nbsp; GitHub
 
 <div align="center">
 
@@ -48,7 +48,7 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 ---
 
-## ✳&nbsp; Featured Projects
+## ✱&nbsp; Featured Projects
 
 <table>
 <tr>
