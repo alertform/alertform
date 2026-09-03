@@ -18,8 +18,6 @@ data plumbing behind them. Everything here is a personal project, built end to e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alertform&bg_color=00000000&color=CC785C&title_color=CC785C&line=CC785C&point=EBDBBC&area=true&area_color=CC785C&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alertform/alertform/output/snake.svg?v=2">
   <img src="https://raw.githubusercontent.com/alertform/alertform/output/snake-light.svg?v=2" alt="Contribution snake">
