@@ -2,13 +2,13 @@
 
 # Ziton
 
-<a href="https://ziton.vercel.app"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2600&pause=700&color=CC785C&center=true&vCenter=true&width=640&height=44&lines=AI-native+tooling;Unreal+Engine+gameplay;Robot+learning;Motion-capture+data+pipelines" alt="AI-native tooling · Unreal Engine gameplay · Robot learning · Motion-capture data pipelines"></a>
+<a href="https://ziton.vercel.app"><img src="https://raw.githubusercontent.com/alertform/alertform/main/assets/typing.svg?v=1" alt="AI-native tooling · Unreal Engine gameplay · Robot learning · Motion-capture data pipelines"></a>
 
 I build agents, retrieval systems and model fine-tunes — plus UE gameplay and the motion-capture
 data plumbing behind them. Everything here is a personal project, built end to end and measured.
 
-<a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Portfolio%20%C2%B7%20Blog-CC785C?style=for-the-badge&logo=vercel&logoColor=F0EEE6&labelColor=191919" alt="Portfolio and blog"></a>
-<a href="https://github.com/alertform?tab=repositories"><img src="https://img.shields.io/badge/Repositories-191919?style=for-the-badge&logo=github&logoColor=F0EEE6&labelColor=191919" alt="Repositories"></a>
+<a href="https://ziton.vercel.app"><img src="https://raw.githubusercontent.com/alertform/alertform/main/assets/badge-portfolio.svg?v=1" alt="Portfolio and blog"></a>
+<a href="https://github.com/alertform?tab=repositories"><img src="https://raw.githubusercontent.com/alertform/alertform/main/assets/badge-repos.svg?v=1" alt="Repositories"></a>
 
 </div>
 
