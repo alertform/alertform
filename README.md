@@ -10,19 +10,5 @@ built end to end.
 
 ---
 
-## Projects
-
-### [ue5-multiplayer-action](https://github.com/alertform/ue5-multiplayer-action)
-`C++` · `UE 5.5` · `GAS` · `UnLua`
-
-Lyra-style multiplayer action demo on **UE 5.5**. Full GAS stack, 4-stage root-motion
-katana combos with per-swing Motion Warping, lock-on and block/parry, a complete
-deathmatch loop and BehaviorTree AI coordinated by a server attack-token director.
-
-Server-side **lag compensation** with favor-the-shooter rewind, plus
-prediction-correction metrics. Backed by a headless UE Automation suite.
-
----
-
 Currently poking at physics simulation and robot learning, and at what agents can
 actually author inside a game engine.
